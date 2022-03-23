@@ -1,3 +1,3 @@
 var hello = 'Hello World'
 
-console.log({hello})
+console.log({hello, date: Date.now()});
