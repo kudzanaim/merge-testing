@@ -9,5 +9,6 @@ console.log("initial line cas-3097")
  * End Of File: cas-3027
  */ 
 
-var state__afterCasKudzPush = {version:'1.0.1'}
-var state = {version: '1.0.5'}
+var state = {version: '1.0.5', OS: 'Windows XP'}
+var state__afterCasKudzPush = {version:'1.0.1', date: Date.now()}
+var state_other_dev = {OS:'IOS',status: 'new'}
