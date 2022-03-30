@@ -9,4 +9,4 @@ console.log("initial line cas-3097")
  * End Of File: cas-3027
  */ 
 
-var state = {version: '1.0.5'}
+var state = {version: '1.0.5', OS: 'Windows XP'}
