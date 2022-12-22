@@ -7,7 +7,7 @@ var state = {appName: "helloWorld", a:1,b:2}
 var differentAppState = {version:"1.00100000"}
 
 var differentAppAuthor = {versionAuthor:"Kudz Murefu"}
- 
+  
 var initLog = "System Starting...." 
 
 var author = {name: "Isaac Asimov", releases: 43, channels:["Kindle","Spotify"]} 
