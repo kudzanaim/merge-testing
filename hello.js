@@ -4,7 +4,7 @@ console.log({hello, date: Date.now()})
 
 var state = {appName: "helloWorld", a:1,b:2}
 
-var myNewState = {version:"1.50"}
+var differentAppState = {version:"1.001"}
  
 var initLog = "System Starting...." 
 
