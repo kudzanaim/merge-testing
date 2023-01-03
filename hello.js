@@ -16,6 +16,8 @@ var system = {launched: "03-07-2006", OS: "Windows XP", needsUpdate: true}
 
 var ISO = ['x37940-90','x90040-47993x','x903683-6373'] 
 
+// heres change #1
+
 /*
     End of File 
 */ 
