@@ -16,3 +16,7 @@ var state_other_dev = {OS:'IOS',status: 'new'}
 const init_app = function(){
     return {state}
 }
+
+const added_computation_helper = function(){
+    return {state}
+}
